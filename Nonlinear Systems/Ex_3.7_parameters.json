@@ -1,0 +1,13 @@
+{
+    "Time span": "",
+    "t_start": 0.0,
+    "t_end": 10.0,
+    "t_step": 0.1,
+    "system parameters": "",
+    "a": 1.0,
+    "b": 0.0,
+    "c": 1.0,
+    "initial conditions": "",
+    "x1": 1.0,
+    "x2": 1.0
+}
